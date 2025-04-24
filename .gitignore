@@ -14,7 +14,7 @@ Client/*.local
 
 Server/node_modules
 Server/.env
-node_modules
+node_modules/
 
 # Editor directories and files
 Client/.vscode/*
